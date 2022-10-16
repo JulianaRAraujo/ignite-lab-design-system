@@ -13,7 +13,7 @@ export default {
         </TextInput.Icon>,
         <TextInput.Input placeholder="Type your e-mail address"/>
     
-    ],
+    ]
       
   } ,
   argTypes: {
